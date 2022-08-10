@@ -1,2 +1,5 @@
-# School-Date-Scientist
- Homework and practical work completed as part of the training.
+# Школа Data Scientist
+
+№ лекции | Статус | Время и дата начала лекции
+----- | ----- | -----
+0 | :white_check_mark: | 19:30 09.08.2022
